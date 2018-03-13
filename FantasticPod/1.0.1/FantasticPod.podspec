@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 This pod is about testing cocoa pods and making a lot of them. This pod is about testing cocoa pods and making a lot of them. This pod is about testing cocoa pods and making a lot of them.
                        DESC
 
-  s.homepage         = 'https://github.com/seckovpero/FantasticPod'
+  s.homepage         = 'https://google.com'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'seckovpero' => 'seckovpero@gmail.com' }
